@@ -8,6 +8,7 @@ weight: 200
 Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten bezüglich des Matrix Server Setups an der TU Dresden.
 
 * [Wie sieht die Topologie des Setups aus?](#setup)
+*Could you please tell me about the arcitecture of Matrix server used in tu dresden?
 * [Welche Hardwareparameter sind derzeit im Einsatz? (Sizing)](#hardware)
 * [Matrix-Docker-Ansible-Deploy (MDAD)](#mdad)
 * [Wie groß dürfen Mediendateien sein?](#file-size)
